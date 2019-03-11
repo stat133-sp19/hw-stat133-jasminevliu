@@ -4,7 +4,7 @@ Private Repository for HW assignments of Stat 133 (Spring 2019)
 
 - Name: Jasmine Liu
 - Github username: jasminevliu
-- Email: address jasmine_vliu@berkeley.edu
+- Email address: jasmine_vliu@berkeley.edu
 - Lab section: 112
 - GSI: Shuni Li
 

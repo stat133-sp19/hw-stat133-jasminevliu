@@ -1,4 +1,18 @@
-Description of Workout 1
-1) Working with more complex file structures and uploading files to GitHub
-2) Visualizing shot data of NBA players and producing "shot charts" for the GSW
-3) Producing report document
+# Stat 133, Spring 2019
+
+Private Repository for HW assignments of Stat 133 (Spring 2019)
+
+- Name: Jasmine Liu
+- Github username: jasminevliu
+- Email: jasmine_vliu@berkeley.edu
+- Lab section: 112
+- GSI: Shuni Li
+
+-----
+
+## Assignments
+
+- [Demo](demo)
+- [Workout 1](workout1)
+- Workout 2
+- Workout 3
